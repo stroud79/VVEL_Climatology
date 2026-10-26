@@ -1,0 +1,15 @@
+numpy
+pandas
+xarray
+scipy
+dask
+netCDF4
+h5py
+matplotlib
+aacgmv2
+ppigrf
+pyyaml
+pytz
+timezonefinder
+pyproj
+pytest

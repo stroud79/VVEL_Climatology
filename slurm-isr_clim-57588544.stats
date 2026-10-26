@@ -1,0 +1,45 @@
++--------------------------------------------------------------------------+
+| Job on the BlueBEAR cluster:
+| Starting at Thu Oct 15 13:44:00 2026 for jxs2058(945450)
+| Identity jobid 57588544 jobname isr_clim
+| Running against project reidb-waccm-x and in partition sapphire-shared
+| Requested cpu=8,mem=32G,node=1,billing=8 - 12:00:00 walltime
+| Allocated cpu=8,mem=32G,node=1,billing=8
+| Assigned to nodes bear-pg0202u04a
+| Command /rds/projects/r/reidb-waccm-x/ISR_Climatology/slurm/submit_climatology.sh
+| WorkDir /rds/projects/r/reidb-waccm-x/ISR_Climatology
++--------------------------------------------------------------------------+
++--------------------------------------------------------------------------+
+| Finished at Thu Oct 15 13:46:58 2026 for jxs2058(945450) on the BlueBEAR Cluster
+| Required (01:34.373 cputime, 822813K memory used) - 00:02:59 walltime
+| JobState COMPLETING - Reason None
+| Exitcode 0:0
++--------------------------------------------------------------------------+
+Job efficiency stats from seff for Job ID: 57588544
+Cluster: paddington
+User/Group: jxs2058/users
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 8
+CPU Utilized: 00:01:34
+CPU Efficiency: 6.56% of 00:23:52 core-walltime
+Job Wall-clock time: 00:02:59
+Memory Utilized: 803.53 MB
+Memory Efficiency: 2.45% of 32.00 GB (32.00 GB/node)
++--------------------------------------------------------------------------+
+| Finished at Thu Oct 15 13:47:23 2026 for jxs2058(945450) on the BlueBEAR Cluster
+| Required (01:34.373 cputime, 822813K memory used) - 00:02:59 walltime
+| JobState COMPLETING - Reason None
+| Exitcode 0:0
++--------------------------------------------------------------------------+
+Job efficiency stats from seff for Job ID: 57588544
+Cluster: paddington
+User/Group: jxs2058/users
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 8
+CPU Utilized: 00:01:34
+CPU Efficiency: 6.56% of 00:23:52 core-walltime
+Job Wall-clock time: 00:02:59
+Memory Utilized: 803.53 MB
+Memory Efficiency: 2.45% of 32.00 GB (32.00 GB/node)

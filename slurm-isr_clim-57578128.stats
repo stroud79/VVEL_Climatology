@@ -1,0 +1,28 @@
++--------------------------------------------------------------------------+
+| Job on the BlueBEAR cluster:
+| Starting at Thu Oct 15 10:49:52 2026 for jxs2058(945450)
+| Identity jobid 57578128 jobname isr_clim
+| Running against project reidb-waccm-x and in partition emerald-shared
+| Requested cpu=8,mem=32G,node=1,billing=8 - 12:00:00 walltime
+| Allocated cpu=8,mem=32G,node=1,billing=8
+| Assigned to nodes bear-pg0201u12b
+| Command /rds/projects/r/reidb-waccm-x/ISR_Climatology/slurm/submit_climatology.sh
+| WorkDir /rds/projects/r/reidb-waccm-x/ISR_Climatology
++--------------------------------------------------------------------------+
++--------------------------------------------------------------------------+
+| Finished at Thu Oct 15 11:06:07 2026 for jxs2058(945450) on the BlueBEAR Cluster
+| Required (40:04.326 cputime, 1807519K memory used) - 00:16:17 walltime
+| JobState COMPLETING - Reason None
+| Exitcode 0:0
++--------------------------------------------------------------------------+
+Job efficiency stats from seff for Job ID: 57578128
+Cluster: paddington
+User/Group: jxs2058/users
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 8
+CPU Utilized: 00:40:04
+CPU Efficiency: 30.76% of 02:10:16 core-walltime
+Job Wall-clock time: 00:16:17
+Memory Utilized: 1.72 GB
+Memory Efficiency: 5.39% of 32.00 GB (32.00 GB/node)
